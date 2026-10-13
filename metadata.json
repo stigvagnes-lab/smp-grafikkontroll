@@ -1,0 +1,5 @@
+{
+  "name": "SMP Grafikk-kontroll",
+  "description": "Styr værgrafikk og se værdata for Sunnmøre basert på MET.no",
+  "requestFramePermissions": ["geolocation"]
+}
